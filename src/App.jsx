@@ -31,7 +31,7 @@ function App() {
       {loading ? (
         <>
           <h2>Generating..Please Wait..</h2>
-          <div class="lds-ripple">
+          <div className="lds-ripple">
             <div></div>
             <div></div>
           </div>
